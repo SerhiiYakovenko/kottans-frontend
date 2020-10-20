@@ -5,8 +5,8 @@
 #### General
 
 - [x] [GIT Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
-- [ ] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
-- [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
+- [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
+- [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
 
 #### Front-End Basics
 
@@ -30,29 +30,44 @@
 
 #### 1. GIT Basics
 
-Version Control with Git:
+<details>
+    <summary>Version Control with Git</summary>
+
 ![Screenshot](general/git-intro/Screenshot_2020-10-19_at_22.46.32.png)
+</details>
 
-Main: 
+<details>
+    <summary>Main </summary>
+
 ![Screenshot](general/git-intro/Screenshot_2020-10-19_at_23.00.08.png)
-
-Remote: 
+</details> 
+<details>
+    <summary>Remote</summary>
+  
 ![Screenshot](general/git-intro/Screenshot_2020-10-19_at_23.34.29.png)
+</details>
+
 
 #### 2. Linux CLI and Networking
+<details>
+    <summary>Linux Survival (4 modules)</summary>
+  
+![Screenshot](general/task_linux_cli/Screenshot_2020-10-20_at_08.38.07.png)
+![Screenshot](general/task_linux_cli/Screenshot_2020-10-20_at_08.59.43.png)
+![Screenshot](general/task_linux_cli/Screenshot_2020-10-20_at_09.26.37.png)
+![Screenshot](general/task_linux_cli/Screenshot_2020-10-20_at_10.26.12.png) 
+</details> 
+<br />
 
-Linux Survival (4 modules)
-![Screenshot]()
+**Http articles review:**
+For the first article I was already familiar with HTTP basics, it was good to repeat material. But it was also good to have some practical examples in web frameworks and libraries. Second article was more interesting to me as it includes a more deep knowledge of HTTP such as connection handling, identification and authentication and caching.
 
 #### 3. VCS (hello gitty), GitHub and Collaboration
+<details>
+    <summary>GitHub & Collaboration</summary>
+  
+![Screenshot](general/task_git_collaboration/Screenshot_2020-10-20_at_12.20.34.png)
+</details>
 
-GitHub & Collaboration
-![Screenshot]()
 
-Completed the following levels at learngitbranching.js.org:
 
-Main: Ramping Up, Moving Work Around
-![Screenshot]()
-
-Remote: To Origin and Beyond
-![Screenshot]()
