@@ -10,7 +10,7 @@
 
 #### Front-End Basics
 
-- [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
+- [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
 - [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
 - [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/htm=[l-css-popup.md)
 - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
@@ -69,5 +69,15 @@ For the first article I was already familiar with HTTP basics, it was good to re
 ![Screenshot](general/task_git_collaboration/Screenshot_2020-10-20_at_12.20.34.png)
 </details>
 
+#### 4. Intro to HTML and CSS
+<details>
+    <summary>Intro to HTML and CSS</summary>
+  
+![Screenshot](general/task_html_css_intro/Screenshot_2020-10-20_at_22.24.34.png)
+![Screenshot](general/task_html_css_intro/Screenshot_2020-10-23_at_10.54.37.png)
+![Screenshot](general/task_html_css_intro/Screenshot_2020-10-23_at_10.54.44.png)
+</details>
+
+[Learning material](learning_material/html_css)
 
 
