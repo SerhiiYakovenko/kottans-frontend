@@ -79,5 +79,3 @@ For the first article I was already familiar with HTTP basics, it was good to re
 </details>
 
 [Learning material](learning_material/html_css)
-
-
