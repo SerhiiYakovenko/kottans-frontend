@@ -11,7 +11,7 @@
 #### Front-End Basics
 
 - [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
-- [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
+- [x] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
 - [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/htm=[l-css-popup.md)
 - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
 - [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) - practice
@@ -50,7 +50,7 @@
 
 #### 2. Linux CLI and Networking
 <details>
-    <summary>Linux Survival (4 modules)</summary>
+    <summary>Screenshots</summary>
   
 ![Screenshot](general/task_linux_cli/Screenshot_2020-10-20_at_08.38.07.png)
 ![Screenshot](general/task_linux_cli/Screenshot_2020-10-20_at_08.59.43.png)
@@ -60,22 +60,35 @@
 <br />
 
 **Http articles review:**
-For the first article I was already familiar with HTTP basics, it was good to repeat material. But it was also good to have some practical examples in web frameworks and libraries. Second article was more interesting to me as it includes a more deep knowledge of HTTP such as connection handling, identification and authentication and caching.
+For the first article I was already familiar with HTTP basics, it was good to repeat material. But it was also good to have some practical examples in web frameworks and libraries. The second article was more interesting to me as it includes a more deep knowledge of HTTP such as connection handling, identification and authentication and caching.
 
 #### 3. VCS (hello gitty), GitHub and Collaboration
 <details>
-    <summary>GitHub & Collaboration</summary>
+    <summary>Screenshots</summary>
   
 ![Screenshot](general/task_git_collaboration/Screenshot_2020-10-20_at_12.20.34.png)
 </details>
 
 #### 4. Intro to HTML and CSS
 <details>
-    <summary>Intro to HTML and CSS</summary>
+    <summary>Screenshots</summary>
   
-![Screenshot](general/task_html_css_intro/Screenshot_2020-10-20_at_22.24.34.png)
-![Screenshot](general/task_html_css_intro/Screenshot_2020-10-23_at_10.54.37.png)
-![Screenshot](general/task_html_css_intro/Screenshot_2020-10-23_at_10.54.44.png)
+![Screenshot](fe-basics/task_html_css_intro/Screenshot_2020-10-20_at_22.24.34.png)
+![Screenshot](fe-basics/task_html_css_intro/Screenshot_2020-10-23_at_10.54.37.png)
+![Screenshot](fe-basics/task_html_css_intro/Screenshot_2020-10-23_at_10.54.44.png)
 </details>
 
+[Codeacademy profile](https://www.codecademy.com/profiles/webRunner72606)  
 [Learning material](learning_material/html_css)
+
+#### 5. Responsive Web Design
+<details>
+    <summary>Screenshots</summary>
+  
+![Screenshot](fe-basics/task_responsive_web_design/Screenshot_2020-10-25_at_14.23.18.png)
+![Screenshot](fe-basics/task_responsive_web_design/Screenshot_2020-10-23_at_18.36.56.png)
+![Screenshot](fe-basics/task_responsive_web_design/Screenshot_2020-10-23_at_19.11.05.png)
+
+</details>
+
+[Learning material](learning_material/responsive_web_design)
