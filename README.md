@@ -12,8 +12,8 @@
 
 - [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
 - [x] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
-- [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/htm=[l-css-popup.md)
-- [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
+- [x] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/htm=[l-css-popup.md)
+- [x] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
 - [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) - practice
 
 #### Advanced Topics
@@ -92,3 +92,18 @@ For the first article I was already familiar with HTTP basics, it was good to re
 </details>
 
 [Learning material](learning_material/responsive_web_design)
+
+#### 6. HTML & CSS Practice
+[Demo](https://serhiiyakovenko.github.io/simple_html-css_popup/)  |  [Code](https://github.com/SerhiiYakovenko/simple_html-css_popup)
+
+#### 7. JavaScript Basics
+<details>
+    <summary>Screenshots</summary>
+  
+![Screenshot](fe-basics/task_js_basics/Screenshot_2020-10-31_at_21.18.51.png)
+![Screenshot](fe-basics/task_js_basics/Screenshot_2020-11-01_at_15.39.28.png)
+
+</details>
+
+[freeCodeCamp profile material](https://www.freecodecamp.org/maxxtro)
+
