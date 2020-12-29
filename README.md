@@ -18,8 +18,8 @@
 
 #### Advanced Topics
 
-- [ ] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) - practice
-- [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) - practice
+- [x] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) - practice
+- [x] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) - practice
 - [ ] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) - practice
 - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
 - [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) — real project!
@@ -106,4 +106,33 @@ For the first article I was already familiar with HTTP basics, it was good to re
 </details>
 
 [freeCodeCamp profile material](https://www.freecodecamp.org/maxxtro)
+
+#### 8. Document Object Model - practice
+<details>
+    <summary>Screenshots</summary>
+  
+![Screenshot](fe-basics/task_js_dom/Screenshot_2020-12-29_at_15.23.52.png)
+![Screenshot](fe-basics/task_js_dom/Screenshot_2020-12-29_at_15.24.08.png)
+
+</details>
+
+[JS-Dom Demo](https://serhiiyakovenko.github.io/js-dom/)
+[JS-Dom Code](https://github.com/SerhiiYakovenko/js-dom)
+
+#### 9. Building a Tiny JS World (pre-OOP) - practice
+[Tiny JS World Demo](https://serhiiyakovenko.github.io/a-tiny-JS-world/)
+[Tiny JS World Code](https://github.com/SerhiiYakovenko/a-tiny-JS-world/tree/serhiiyakovenko-tiny-JS-world)
+
+
+#### 10. Object-Oriented JavaScript - practice
+<details>
+    <summary>Screenshots</summary>
+  
+![Screenshot](advanced/task_js_oop/Screenshot_2020-12-29_at_15.30.52.png)
+
+</details>
+
+[Codewars profile](https://www.codewars.com/users/Maxxtro)
+[Frogger Demo](https://serhiiyakovenko.github.io/frontend-nanodegree-arcade-game/)
+[Frogger Code](https://github.com/SerhiiYakovenko/frontend-nanodegree-arcade-game/)
 
