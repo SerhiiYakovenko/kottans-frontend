@@ -116,12 +116,12 @@ For the first article I was already familiar with HTTP basics, it was good to re
 
 </details>
 
-[JS-Dom Demo](https://serhiiyakovenko.github.io/js-dom/)
+[JS-Dom Demo](https://serhiiyakovenko.github.io/js-dom/)  
 [JS-Dom Code](https://github.com/SerhiiYakovenko/js-dom)
 
 #### 9. Building a Tiny JS World (pre-OOP) - practice
 
-[Tiny JS World Demo](https://serhiiyakovenko.github.io/a-tiny-JS-world/)
+[Tiny JS World Demo](https://serhiiyakovenko.github.io/a-tiny-JS-world/)  
 [Tiny JS World Code](https://github.com/SerhiiYakovenko/a-tiny-JS-world/tree/serhiiyakovenko-tiny-JS-world)
 
 
@@ -133,11 +133,11 @@ For the first article I was already familiar with HTTP basics, it was good to re
 
 </details>
 
-[Codewars profile](https://www.codewars.com/users/Maxxtro)
-[Frogger Demo](https://serhiiyakovenko.github.io/frontend-nanodegree-arcade-game/)
+[Codewars profile](https://www.codewars.com/users/Maxxtro)  
+[Frogger Demo](https://serhiiyakovenko.github.io/frontend-nanodegree-arcade-game/)  
 [Frogger Code](https://github.com/SerhiiYakovenko/frontend-nanodegree-arcade-game/)
 
-#### 11. OOP exercise - practice
+#### 11. Building a Tiny JS World (pre-OOP) - practice
 
-[JS Post OOP Demo](https://serhiiyakovenko.github.io/a-tiny-JS-world/)
+[JS Post OOP Demo](https://serhiiyakovenko.github.io/a-tiny-JS-world/)  
 [JS Post OOP Code](https://github.com/SerhiiYakovenko/a-tiny-JS-world/tree/syakovenko-js-world-oop)
