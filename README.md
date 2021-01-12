@@ -14,13 +14,13 @@
 - [x] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
 - [x] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/htm=[l-css-popup.md)
 - [x] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
-- [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) - practice
+- [x] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) - practice
 
 #### Advanced Topics
 
 - [x] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) - practice
 - [x] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) - practice
-- [ ] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) - practice
+- [x] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) - practice
 - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
 - [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) — real project!
 - [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
@@ -120,6 +120,7 @@ For the first article I was already familiar with HTTP basics, it was good to re
 [JS-Dom Code](https://github.com/SerhiiYakovenko/js-dom)
 
 #### 9. Building a Tiny JS World (pre-OOP) - practice
+
 [Tiny JS World Demo](https://serhiiyakovenko.github.io/a-tiny-JS-world/)
 [Tiny JS World Code](https://github.com/SerhiiYakovenko/a-tiny-JS-world/tree/serhiiyakovenko-tiny-JS-world)
 
@@ -136,3 +137,7 @@ For the first article I was already familiar with HTTP basics, it was good to re
 [Frogger Demo](https://serhiiyakovenko.github.io/frontend-nanodegree-arcade-game/)
 [Frogger Code](https://github.com/SerhiiYakovenko/frontend-nanodegree-arcade-game/)
 
+#### 11. OOP exercise - practice
+
+[JS Post OOP Demo](https://serhiiyakovenko.github.io/a-tiny-JS-world/)
+[JS Post OOP Code](https://github.com/SerhiiYakovenko/a-tiny-JS-world/tree/syakovenko-js-world-oop)
