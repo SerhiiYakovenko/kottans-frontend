@@ -22,9 +22,9 @@
 - [x] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) - practice
 - [x] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) - practice
 - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
-- [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) — real project!
+- [x] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) — real project!
 - [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
-- [ ] [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) - real project!
+- [x] [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) - real project!
 
 ### My progress
 
@@ -137,7 +137,17 @@ For the first article I was already familiar with HTTP basics, it was good to re
 [Frogger Demo](https://serhiiyakovenko.github.io/frontend-nanodegree-arcade-game/)  
 [Frogger Code](https://github.com/SerhiiYakovenko/frontend-nanodegree-arcade-game/)
 
-#### 11. Building a Tiny JS World (pre-OOP) - practice
+#### 11. Building a Tiny JS World (post-OOP) - practice
 
 [JS Post OOP Demo](https://serhiiyakovenko.github.io/a-tiny-JS-world/)  
 [JS Post OOP Code](https://github.com/SerhiiYakovenko/a-tiny-JS-world/tree/syakovenko-js-world-oop)
+
+#### 12. Memory – Pair Game
+
+[Memory – Pair Game Demo](https://serhiiyakovenko.github.io/memory-pair-game/)  
+[Memory – Pair Game Code](https://github.com/SerhiiYakovenko/memory-pair-game)
+
+#### 13. Friends App
+
+[Friends App Demo](https://serhiiyakovenko.github.io/friends-app/)  
+[Friends App Code](https://github.com/SerhiiYakovenko/friends-app/)
